@@ -1,6 +1,9 @@
 {
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "require": {
+        "beberlei/assert": "^3.2"
+    },
     "require-dev": {
         "pestphp/pest": "^0.2.3",
         "phpunit/phpunit": "^9.0"
