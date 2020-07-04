@@ -5,6 +5,7 @@ PHP code katas, tested with [Pest PHP][]. Based on exercises from [Exercism.io][
 Includes:
 
 - **Anagrams**: select an anagram for a word from a list of condidates.
+- **Bob**: returns different responses based on input.
 - **Grade School**: given students' names along with the grade that they are in, create a roster for the school.
 - **Roman numerals**: convert a number into its roman numeral value.
 
