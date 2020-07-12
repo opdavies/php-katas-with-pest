@@ -10,7 +10,10 @@
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
-        "files": ["src/FlattenArray.php"],
+        "files": [
+            "src/FlattenArray.php",
+            "src/Pangram.php"
+        ],
         "psr-4": {
             "App\\": "src/"
         }
